@@ -1,0 +1,29 @@
+[INFO] Dastur boshlandi
+[INFO] Fayl "data.txt" ochildi.
+[INFO] Faylga yozilmoqda...
+[INFO] Faylga muvaffaqiyatli yozildi.
+[INFO] Fayl yopildi.
+[ERROR] Fayl ochishda xatolik yuz berdi: [Errno 22] Invalid argument: 'data?.txt'
+[INFO] Dastur boshlandi
+[INFO] Fayl "data.txt" ochildi.
+[INFO] Faylga yozilmoqda...
+[INFO] Faylga muvaffaqiyatli yozildi.
+[INFO] Fayl yopildi.
+[INFO] Fayl "data@.txt" ochildi.
+[INFO] Faylga yozilmoqda...
+[INFO] Faylga muvaffaqiyatli yozildi.
+[INFO] Fayl yopildi.
+[INFO] Dastur boshlandi
+[INFO] Fayl "data.txt" ochildi.
+[INFO] Faylga yozilmoqda...
+[INFO] Faylga muvaffaqiyatli yozildi.
+[INFO] Fayl yopildi.
+[ERROR] Fayl ochishda xatolik yuz berdi: [Errno 22] Invalid argument: 'data>.txt'
+[INFO] Dastur boshlandi
+[INFO] Fayl "data.txt" ochildi.
+[INFO] Faylga yozilmoqda...
+[INFO] Faylga muvaffaqiyatli yozildi.
+[INFO] Fayl yopildi.
+[ERROR] Fayl ochishda xatolik yuz berdi: [Errno 22] Invalid argument: 'data>.txt'
+[INFO] Fayl "data.txt" ochildi.
+[INFO] Fayl yopildi.
